@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="notifyTitle">Notfy</string>
+    <string name="gpsNotifyMsg">Necesita activar la función de GPS del dispostivo.</string>
+    <string name="setting">Configuracion</string>
+    <string name="cancel">Cancelar</string>
+
+    <string name="start_scan">Escanear</string>
+    <string name="stop_scan">Detener</string>
+    <string name="expand_search_settings">Opciones avanzadas</string>
+    <string name="retrieve_search_settings">Opciones avanzads menos</string>
+    <string name="connect_fail">Error conexion</string>
+    <string name="active_disconnected">Desconectado</string>
+    <string name="disconnected">Desconectado</string>
+    <string name="please_open_blue">Activar Bluetooth</string>
+    <string name="select_operation_type">Selecciona tipo de operacion</string>
+    <string name="characteristic">Caracteristica</string>
+    <string name="data_changed">Informacion cambiada</string>
+    <string name="read">Leer</string>
+    <string name="write">Escribir</string>
+    <string name="open_notification">Abrir notificacion</string>
+    <string name="close_notification">Cerrar notificacion</string>
+    <string name="service_list">Lista de servicios</string>
+    <string name="characteristic_list">Lista de caracteristicas</string>
+    <string name="console">Consola</string>
+    <string name="name">Nombre:</string>
+    <string name="mac">MAC:</string>
+    <string name="service">Servicio</string>
+    <string name="type">Tipo de servicio</string>
+    <string name="scan_setting">A continuación puede configurar las condiciones de los dispositivos que deben escanearse, pueden estar vacíos</string>
+    <string name="setting_name">Ingrese el nombre de transmisión del dispositivo Bluetooth, separado por comas</string>
+    <string name="setting_mac">Ingrese la dirección mac del dispositivo Bluetooth</string>
+    <string name="setting_uuid">Ingrese el UUID del dispositivo Bluetooth, separado por comas</string>
+    <string name="input_hex">Ingrese el comando de formato HEX</string>
+    <string name="connect">conectar</string>
+    <string name="connected">conectado</string>
+    <string name="disconnect">desconectado</string>
+    <string name="enter">entrar</string>
+</resources>
